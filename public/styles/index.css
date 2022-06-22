@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background-image: linear-gradient(to right bottom, #212132, #52529d);
+    height: 100%;
+}
+
+body {
+    width: 100%;
+}
+
+/*========== Header Page ========== */
+
+.header-title {
+    position: absolute;
+    top: 50px;
+    left: 50%;
+    transform: translate(-50%);
+
+    color: white;
+    font-family: sans-serif;
+    font-size: 36px;
+
+    padding-bottom: 5px;
+    border-bottom: 3px solid white;
+    border-radius: 15px;
+}
+
+/*================================= */
