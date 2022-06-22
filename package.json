@@ -1,0 +1,13 @@
+{
+  "name": "environment-tests",
+  "version": "1.0.0",
+  "description": "Enviroment tests for my clicker game",
+  "main": "./src/app.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

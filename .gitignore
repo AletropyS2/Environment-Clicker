@@ -1,0 +1,4 @@
+node_modules
+typescript
+.swcrc
+start-type-watch.bat
